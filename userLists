@@ -1,0 +1,2 @@
+# username, inventory, gold, skills
+[toltyan, [Fish('Pufferfish', 400), Fish('Halibut', 23)], 42, [3, 2, 1]]
